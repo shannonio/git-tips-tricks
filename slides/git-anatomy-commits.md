@@ -1,9 +1,5 @@
-### Pieces of Git
+## Commit Objects
 
-- The thing that makes your git repo a git repo is the hidden .git folder in your repo
-- HEAD -- the snapshot of ***your last commit.***
-- Tree Objects
-- Commit Objects
 ```bash
 sha1(
     commit message  => "initial commit"
@@ -15,6 +11,3 @@ sha1(
     parents         => [0d973e9c4353ef3f8ddb98a86e664be001425e4a]
 )
 ```
-
-[Simple Internals](https://blog.thoughtram.io/git/2014/11/18/the-anatomy-of-a-git-commit.html)
-[Adv Internals](https://git-scm.com/book/en/v2/Git-Internals-Git-Objects)

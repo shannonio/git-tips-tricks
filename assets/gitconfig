@@ -21,11 +21,11 @@
   standup = !git lg --since='yesterday' --author=`git config user.email`
   su = !git standup
   pr = !hub pull-request
+  wip = git commit -am "WIP"
   expunge = !git branch --merged mainline | grep -v 'mainline$' | xargs git branch -d
   done = "!f() { git co -b $1 && git add . --all && git commit -m $2 && git push -u origin $1 && hub pull-request -m $2; }; f"
   accept-ours = "!f() { files=\"$@\"; [ -z $files ] && files='.'; git checkout --ours -- $files; git add -u $files; }; f"
   accept-theirs = "!f() { files=\"$@\"; [ -z $files ] && files='.'; git checkout --theirs -- $files; git add -u $files; }; f"
-
 
 [core]
 	editor = atom --wait

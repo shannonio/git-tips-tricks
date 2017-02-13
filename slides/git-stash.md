@@ -1,8 +1,7 @@
 `git stash`
 
 ```bash
-> git add .
-> git stash
+> git stash -u # Stash all file changes in working directory
 ...do whatever you want
 > git stash pop
 ```
