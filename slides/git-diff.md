@@ -1,7 +1,3 @@
-## `git diff`
+`git diff --cached`
 
-![git diff --cached]()
-
-
-- `--cached`
- - Just the differences that you've staged!
+> Just the differences that you've staged!

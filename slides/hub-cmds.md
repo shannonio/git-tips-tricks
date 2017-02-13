@@ -1,7 +1,6 @@
 ## Using Hub
-- Alias `hub` to `git` to recieve the greatest gain
-
 |Command | Detail |
+|---|---|
 |git clone project| Cloning your own project shorthand|
 |git clone github/hub| Cloning someone elses project|
 |git fork | Fork the repo from CLI!|

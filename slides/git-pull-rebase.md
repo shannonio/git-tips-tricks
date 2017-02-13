@@ -1,4 +1,4 @@
-## `git pull --rebase`
+`git pull --rebase`
 
 - This eliminates the merge commit when you pull changes from a branch that others have commited to.
 
