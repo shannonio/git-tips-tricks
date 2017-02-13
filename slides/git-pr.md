@@ -1,0 +1,1 @@
+pr = !hub pull-request

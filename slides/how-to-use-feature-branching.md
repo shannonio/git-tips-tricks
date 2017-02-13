@@ -1,4 +1,4 @@
-# Starting a feature branch
+## Starting a feature branch
 - Start on master
 - Create a new feature branch
 - Implement your changes on that branch
