@@ -1,3 +1,3 @@
 `git add -p`
 
-![gitappp](../images/git-add-p.png)
+![gitappp](images/git-add-p.png)

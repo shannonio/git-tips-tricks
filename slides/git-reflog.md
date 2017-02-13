@@ -1,3 +1,3 @@
 `git reflog`
 
-![reflog](../images/reflog.png)
+![reflog](images/reflog.png)

@@ -2,4 +2,4 @@
 
 `git rebase -i HEAD~2`
 
-![Interactive rebase](../images/interactive-rebase.png)
+![Interactive rebase](images/interactive-rebase.png)

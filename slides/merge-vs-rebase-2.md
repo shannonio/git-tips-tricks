@@ -4,4 +4,4 @@
 
   > This moves the entire feature branch to begin on the tip of the master branch.
 
-![rebase style](../images/rebase.png)
+![rebase style](images/rebase.png)
