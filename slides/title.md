@@ -1,2 +1,2 @@
 # Git Tips & Tricks
-## @shannonio
+## shannon.io/git-tips-tricks
